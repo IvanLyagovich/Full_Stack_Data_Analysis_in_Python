@@ -1,7 +1,7 @@
 # Full_Stack_Data_Analysis_in_Python
 
 ## Please Note:
-Notebook 4: Exploratory Data Analysis and Visualization is not displaying all of the visualizations beacuse GitHub does not support plotly. To view the correct diplay of the notebook please use HTML version.
+Notebook 4: Exploratory Data Analysis and Visualization is not displaying all of the visualizations beacuse GitHub does not support plotly. To view the correct diplay of the notebook please download HTML version.
 
 
 # Project Overview
