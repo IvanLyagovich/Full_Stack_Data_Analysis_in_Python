@@ -1,6 +1,8 @@
 # Full_Stack_Data_Analysis_in_Python
 Graphics Cards Ebay Marketplace Analysis.
 
+## Please Note:
+Notebook 4: Exploratory Data Analysis and Visualization is not displaying all of the visualizations beacuse GitHub does not support plotly. To view the correct diplay of the notebook please use HTML version.
 
 # Project Overview
 Welcome to this repository where a series of Jupyter Notebooks unravel an end-to-end data pipeline process, starting from data collection to data visualization. The project focuses on graphics card data from eBay, aiming to comprehend the correlation between the performance of a GPU model and its price in the eBay market. 
